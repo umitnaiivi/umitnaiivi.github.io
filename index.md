@@ -4,11 +4,11 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A student of general linguistics, focused on phonetics and cognitive science. Interested in biolinguistics and NLP.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Instagram](https://instagram.com/umitnaiivi), [GitHub](https://github.com/umitnaiivi)
 
 ## Contact
 
@@ -16,9 +16,9 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Special topics in cognitive science: Emotions, Rationality and Decision-making](https://courses.helsinki.fi/en/aylda-c5015/124025386), summer 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Cognition & Brain Function](https://courses.helsinki.fi/fi/LDA-C5011/125484903), spring 2018
 
 ## Projects
 
