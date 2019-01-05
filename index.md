@@ -4,24 +4,26 @@ layout: default
 
 ## Introduction
 
-A student of general linguistics, focused on phonetics and cognitive science. Interested in biolinguistics and NLP.
+Studying general linguistics at the university of Helsinki, focused on phonetics and minoring in  cognitive science and the finnish language. Especially interested in biolinguistics and implementations of NLP.
 
 ## Find me on
 
-[Instagram](https://instagram.com/umitnaiivi), [GitHub](https://github.com/umitnaiivi)
+[GitHub](https://github.com/umitnaiivi)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+[facebook](www.facebook.com/profile.php?id=100005955105665)
 
 ## Courses I've Taken
 
-[Special topics in cognitive science: Emotions, Rationality and Decision-making](https://courses.helsinki.fi/en/aylda-c5015/124025386), summer 2018
+[Emotions, Rationality and Decision-making](https://courses.helsinki.fi/en/aylda-c5015/124025386), summer 2018
 
 [Cognition & Brain Function](https://courses.helsinki.fi/fi/LDA-C5011/125484903), spring 2018
 
+[Command-line Course](https://courses.helsinki.fi/fi/kik-lg218/126710126), fall 2018
+
 ## Projects
 
-## Misc. 
+[cmdline-course project on github](https://github.com/umitnaiivi/cmdline-course)
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+A small excercise on version control and text editing.
