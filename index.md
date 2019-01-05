@@ -12,7 +12,7 @@ Studying general linguistics at the university of Helsinki, focused on phonetics
 
 ## Contact
 
-[facebook](www.facebook.com/profile.php?id=100005955105665)
+My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
