@@ -14,6 +14,10 @@ Studying general linguistics at the university of Helsinki, focused on phonetics
 
 My email address is of the form first_name.last_name@helsinki.fi.
 
+## CV
+
+[Curriculum Vitae](https://www.overleaf.com/read/fhrmcvydzbmz)
+
 ## Courses I've Taken
 
 [Emotions, Rationality and Decision-making](https://courses.helsinki.fi/en/aylda-c5015/124025386), summer 2018

@@ -4,3 +4,4 @@ description: This is Ümit's homepage.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+CV: /assets/documents/CV.pdf
